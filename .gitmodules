@@ -1,3 +1,21 @@
 [submodule "CartManagement"]
 	path = CartManagement
 	url = ./CartManagement/
+[submodule "EditGames"]
+	path = EditGames
+	url = ./EditGames
+[submodule "EurekaServer"]
+	path = EurekaServer
+	url = ./EurekaServer
+[submodule "OrderGames"]
+	path = OrderGames
+	url = ./OrderGames
+[submodule "UserManagement"]
+	path = UserManagement
+	url = ./UserManagement
+[submodule "ViewGames"]
+	path = ViewGames
+	url = ./ViewGames
+[submodule "zuul-proxy"]
+	path = zuul-proxy
+	url = ./zuul-proxy
