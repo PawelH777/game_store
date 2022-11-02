@@ -19,3 +19,6 @@
 [submodule "zuul-proxy"]
 	path = zuul-proxy
 	url = ./zuul-proxy
+[submodule "Gateway"]
+	path = Gateway
+	url = ./Gateway
