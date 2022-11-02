@@ -3,22 +3,19 @@
 	url = https://github.com/PawelH777/game_store_carts.git
 [submodule "EditGames"]
 	path = EditGames
-	url = ./EditGames
+	url = https://github.com/PawelH777/game_store_edit.git
 [submodule "EurekaServer"]
 	path = EurekaServer
-	url = ./EurekaServer
+	url = https://github.com/PawelH777/game_store_eureka_server.git
 [submodule "OrderGames"]
 	path = OrderGames
-	url = ./OrderGames
+	url = https://github.com/PawelH777/game_store_orders.git
 [submodule "UserManagement"]
 	path = UserManagement
-	url = ./UserManagement
+	url = https://github.com/PawelH777/game_store_users.git
 [submodule "ViewGames"]
 	path = ViewGames
-	url = ./ViewGames
-[submodule "zuul-proxy"]
-	path = zuul-proxy
-	url = ./zuul-proxy
+	url = https://github.com/PawelH777/game_store_view.git
 [submodule "Gateway"]
 	path = Gateway
-	url = ./Gateway
+	url = https://github.com/PawelH777/game_store_gateway.git
