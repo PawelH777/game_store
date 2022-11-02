@@ -1,6 +1,6 @@
 [submodule "CartManagement"]
 	path = CartManagement
-	url = ./CartManagement/
+	url = https://github.com/PawelH777/game_store_carts.git
 [submodule "EditGames"]
 	path = EditGames
 	url = ./EditGames
