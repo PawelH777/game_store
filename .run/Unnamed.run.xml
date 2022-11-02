@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run microservices" type="Multirun" singleton="false" separateTabs="false" reuseTabsWithFailures="false" startOneByOne="true" markFailedProcess="true" hideSuccessProcess="false" delayTime="0.0">
+    <runConfiguration name="EurekaServer" type="Spring Boot" />
+    <runConfiguration name="Edit" type="Spring Boot" />
+    <runConfiguration name="Orders" type="Spring Boot" />
+    <runConfiguration name="Users" type="Spring Boot" />
+    <runConfiguration name="View" type="Spring Boot" />
+    <runConfiguration name="Gateway" type="Spring Boot" />
+    <runConfiguration name="Carts" type="Spring Boot" />
+    <method v="2" />
+  </configuration>
+</component>
